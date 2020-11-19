@@ -334,7 +334,7 @@ You'll find all of these in the [openHABian Configuration Tool](#openhabian-conf
 -   Tellstick core
 
 ## Troubleshooting
-If you're having problems to get openHABian to install properly, check out the [debug guide](https://github.com/openhab/openhabian/blob/master/docs/openhabian-DEBUG.md). It's also available on your system as [/opt/openhabian/docs/openhabian-DEBUG.md](openhabian-DEBUG.md).
+If you're having problems to get openHABian to install properly, check out the [debug guide](https://github.com/openhab/openhabian/blob/master/docs/openhabian-DEBUG.md). It's also available on your system as `/opt/openhabian/docs/openhabian-DEBUG.md`.
 
 Do not hesitate to ask for help on the [openHABian community forum](https://community.openhab.org/) ! Remember to [mind the rules](https://community.openhab.org/t/how-to-ask-a-good-question-help-us-help-you/58396) please.
 
@@ -404,7 +404,7 @@ After the installation of openHABian was successful, you should be able to acces
 -   In any case: [http://your-device-hostname:8080](http://your-device-hostname:8080) or [http://192.168.0.2:8080](http://192.168.0.2:8080) (replace name/IP with yours)
 
 #### What's next?
-If you are not able to access your system via the openHAB dashboard or SSH after more than one hour, chances are high that your hardware setup is the problem. Consult the [debug guide](openhabian-DEBUG.md) and move on from there.
+If you are not able to access your system via the openHAB dashboard or SSH after more than one hour, chances are high that your hardware setup is the problem. Consult the [debug guide](https://github.com/openhab/openhabian/blob/master/docs/openhabian-DEBUG.md) and move on from there.
 
 <a id="switch-openhab-branch"></a>
 #### Can I switch from openHAB 2 stable to the testing or unstable branch?
@@ -441,5 +441,5 @@ You have been warned, if there came any warranty with openHABian to begin with, 
 See the [README](https://github.com/openhab/openhabian/blob/master/README.md) for a list of supported HW and OS.
 openHABian is developed for Debian based systems.
 If your operating system is based on these or if your hardware supports one, your chances are high openHABian can be used.
-Check out the [Manual Setup](#manual-setup) instructions for guidance and consult the [debug guide](openhabian-DEBUG.md) if you run into problems.
+Check out the [Manual Setup](#manual-setup) instructions for guidance and consult the [debug guide](https://github.com/openhab/openhabian/blob/master/docs/openhabian-DEBUG.md) if you run into problems.
 Do not hesitate to ask for help on the [openHABian community forum](https://community.openhab.org/) !
